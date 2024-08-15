@@ -27,17 +27,18 @@ You can view my resume <a href='https://drive.google.com/file/d/1tReLFYIsrlUV8oT
   </a>
 </p>
 
-### Languages:
-| Python3 | MySQL |
-|---------|-------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> |
 
-### Frameworks:
+### <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
+| Python3 | MySQL | Power BI |
+|---------|-------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Desktop.svg" title="Power BI" alt="Power BI" width="55" height="55"/> |
+
+### <h3 align="left">:hammer_and_wrench: Frameworks:</h3>
 | Numpy | Pandas | Sklearn | Matplotlib | Seaborn | Plotly |
 |-------|--------|---------|------------|---------|--------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" title="Seaborn" alt="Seaborn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="55" height="55"/> |
 
-### Development Environments:
+### <h3 align="left">:hammer_and_wrench: Development Environments:</h3>
 | VS Code | Jupyterlab | Anaconda |
 |---------|------------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="JupyterLab" alt="JupyterLab" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="55" height="55"/> |
