@@ -1,3 +1,6 @@
+![Banner](https://github.com/diazoriz/diazoriz/blob/main/1697644248052.jfif)
+
+
 <h1 align="center">Hello 👋, I'm Alejandro Díaz Oriz</h1>
 <h3 align="center">Data Scientist | Data Analyst | Industrial Engineer</h3>
 <p align='left'>
