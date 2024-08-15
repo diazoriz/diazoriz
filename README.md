@@ -19,6 +19,7 @@ I graduated from Tripleten (Formerly Practicum) as a Data Scientist. Throughout 
 You can view my resume <a href='https://drive.google.com/file/d/1pfK3Ss4DmkRKLXaCXi_XhOxlv2qxbebE/view?usp=sharing' target=_blank><u>here</u>.</a> (ENG)</p>
 You can view my resume <a href='https://drive.google.com/file/d/1tReLFYIsrlUV8oThxlR5kY23to_CIltM/view?usp=sharing' target=_blank><u>here</u>.</a> (ESP)</p>
 
+---
 
 ### <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
 | Python3 | MySQL | Power BI |
