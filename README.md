@@ -20,14 +20,6 @@ You can view my resume <a href='https://drive.google.com/file/d/1pfK3Ss4DmkRKLXa
 You can view my resume <a href='https://drive.google.com/file/d/1tReLFYIsrlUV8oThxlR5kY23to_CIltM/view?usp=sharing' target=_blank><u>here</u>.</a> (ESP)</p>
 
 
-<h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,vscode,notion" />
-  </a>
-</p>
-
-
 ### <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
 | Python3 | MySQL | Power BI |
 |---------|-------|----------|
