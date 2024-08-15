@@ -8,3 +8,4 @@ I graduated from Tripleten (Formerly Practicum) as a Data Scientist. Throughout 
 <p align="left">
   <a href="https://www.linkedin.com/in/adiazoriz/"><img alt="LinkedIn" title="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+[![Gmail Badge](https://img.shields.io/badge/-adiazoriz@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adiazoriz@gmail.com)](mailto:adiazoriz@gmail.com) 
