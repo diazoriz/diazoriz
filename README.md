@@ -4,7 +4,7 @@
 
 I graduated from Tripleten (Formerly Practicum) as a Data Scientist. Throughout my training, I experienced significant growth from an analytical and critical perspective, as well as the logic inherent in working with data. The curriculum provides a wide range of projects based on the following concepts and librarys: Machine Learning, Model Training,  Python, SQL, Pandas, Matplotlib, Scikit-Learn, Nltk, SciPy, CatBoost, LightGBM, Seaborn, TensorFlow, and Neural Networks.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1tReLFYIsrlUV8oThxlR5kY23to_CIltM/view?usp=sharing' target=_blank><u>here</u>.</a></p>
 
-![](https://komarev.com/ghpvc/?username=IamAirmanPhoenix&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=diazoriz&color=blueviolet&style=flat-square)
 
 ### Contacts 
 <p align="left">
